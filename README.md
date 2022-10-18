@@ -1,6 +1,6 @@
-<h1>### Olá</h1>
+<h1 align="center">Olá, Sejam Bem Vindos</h1>
 
-<h2>  Me chamo Brunno Gama, e sou um aluno dev, apaixonado por tecnologia!<br/><br/>
+<h2 align="center">  Me chamo Brunno Gama, e sou um aluno dev, apaixonado por tecnologia!<br/><br/>
 My name is Brunno Gama, and I'm a dev student, passionate about technology!</h2>
 <br>
 <p> Este é o espaço onde hoje, tenho passado bastante tempo, dividindo com a plataforma do curso, livros e é neste caminho de aprendizado continuo,
@@ -10,16 +10,16 @@ This is the space where today, I have spent a lot of time, sharing with the cour
 where imagination meets creativity transforming into codes.
 </p><br/>
 <p> Finalizados os seguintes módulos: 
-<br/>Completed the following modules:<br/>
+<br/>Completed the following modules:
 <br/>
-<code><img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>:arrow_lower_left:
-<code><img height="20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>:arrow_lower_left:
-<code><img height="20" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></code>:arrow_lower_left:
-<code><img height="20" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></code>:arrow_lower_left:
+<code><img max width="50px"src="https://camo.githubusercontent.com/72e5df59529a42423d671ba4c02bfb327d917517bfff18595c5e5dc17a5abece/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f68746d6c352e737667"></code>
+<code><img max width="50px"src="https://camo.githubusercontent.com/b788527f604d8e727fcc90d721984125bced85c8a1c9f8da69c6c4a3e51df3c5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f637373332e737667"></code>
+<code><img max width="50px"src="https://camo.githubusercontent.com/a7628672dbfd8720309680580dbfe8aff1d12a1bb2397b5c36cd10a56e08adf7/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769742e737667"></code>
+<code><img max width="50px"src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667"></code>
 <br/><br/>
 Cursando:<br/>studying
-
-<br/><code><img height="19" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code><br/>
+<br/>
+<code><img max width="50px"src="https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667"></code>
 
 <h3> Qualquer dúvida, estou a disposição:<br/>
 Any questions, I'm at your disposal:<br/></h3>
